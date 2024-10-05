@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CongTy>
+    <ThongTin>
+        <TenCongTy>Công ty ABC</TenCongTy>
+        <GiamDoc>
+            <HoTen>Nguyễn Văn A</HoTen>
+            <ChucVu>Giám đốc</ChucVu>
+        </GiamDoc>
+        <DiaChi>
+            <SoNha>123</SoNha>
+            <Duong>Đường 1</Duong>
+            <ThanhPho>Hà Nội</ThanhPho>
+            <QuocGia>Việt Nam</QuocGia>
+        </DiaChi>
+        <DienThoai>0123456789</DienThoai>
+        <MaSoThue>1234567890</MaSoThue>
+    </ThongTin>
+</CongTy>
